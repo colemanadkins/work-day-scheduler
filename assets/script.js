@@ -1,5 +1,5 @@
 // I want to have a daily date on the page
-$("#currentDay").text(moment().format("MMM Do YY")); 
+$("#currentDay").text(moment().format("MMM Do YY"));
 
 // I want the time block colors to change with the time
 
