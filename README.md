@@ -21,6 +21,6 @@ You will see the website meets the following acceptance criteria:
 * WHEN I refresh the page
 * THEN the saved events persist
 
-![alt text](ENTER SCREENSHOT HERE)
+![alt text](https://github.com/colemanadkins/work-day-scheduler/blob/main/assets/05-third-party-apis-homework-demo.gif)
 
 Click [here](https://colemanadkins.github.io/work-day-scheduler/) to use the Work Day Scheduler!
